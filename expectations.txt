@@ -1,3 +1,5 @@
 Expectations:
 	More learnings about servers, webs, websites, git, github, repos
 	Fun, breather course overall
+	
+Yes, I agree
